@@ -1,10 +1,9 @@
-import { useState } from "react";
-import SearchBox from "./searchbox";
+import Weather from "./weather";
 
 function App() {
   return (
     <>
-      <SearchBox />
+      <Weather />
     </>
   );
 }
