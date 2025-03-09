@@ -1,10 +1,10 @@
 import { useState } from "react";
-import "./App.css";
+import SearchBox from "./searchbox";
 
 function App() {
   return (
     <>
-      <h1>weather app</h1>
+      <SearchBox />
     </>
   );
 }
